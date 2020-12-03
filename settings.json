@@ -1,12 +1,7 @@
-// Place your settings in this file to overwrite the default settings
 {
     "editor.rulers": [
         80
     ],
-    "editor.minimap.enabled": false,
-    "git.enabled": false,
-    "extensions.ignoreRecommendations": false,
-    "typescript.check.npmIsInstalled": false,
     "window.zoomLevel": 0,
-    "eslint.enable": false
+    "workbench.colorTheme": "Tomorrow Night Blue"
 }
